@@ -1,4 +1,4 @@
-									Project Title: Password Generator App
+							Project Title: Password Generator App
 Introduction: This java project includes exception handling, multi-threading, generics, polymorphism and graphical user interface to create a password generator app. This app takes an integer length of the password from the user and generates basic or strong types of passwords of that certain length.
 
 How it works: The user inputs a password length and chooses between basic or strong password and clicks generate. When the user clicks on generate, the program generates a password with one second delay to make it more realistic. The password is shown in the text.
